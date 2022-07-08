@@ -1,0 +1,12 @@
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.exe.config
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.exe
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\bin\Debug\Coffe Shop.pdb
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.AssemblyReference.cache
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe_Shop.Properties.Resources.resources
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.GenerateResource.cache
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.csproj.CoreCompileInputs.cache
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.exe
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe Shop.pdb
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe_Shop.FrmLogin.resources
+C:\Users\Dani\Documents\Proyectos .NET\Coffe Shop\Coffe Shop\obj\Debug\Coffe_Shop.Forms.FrmInterface.resources
